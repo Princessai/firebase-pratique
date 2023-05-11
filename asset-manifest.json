@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firebase-pratique/static/css/main.9c2be075.css",
+    "main.js": "/firebase-pratique/static/js/main.de993df1.js",
+    "static/js/787.73d7f708.chunk.js": "/firebase-pratique/static/js/787.73d7f708.chunk.js",
+    "index.html": "/firebase-pratique/index.html",
+    "main.9c2be075.css.map": "/firebase-pratique/static/css/main.9c2be075.css.map",
+    "main.de993df1.js.map": "/firebase-pratique/static/js/main.de993df1.js.map",
+    "787.73d7f708.chunk.js.map": "/firebase-pratique/static/js/787.73d7f708.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c2be075.css",
+    "static/js/main.de993df1.js"
+  ]
+}
